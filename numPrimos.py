@@ -1,3 +1,4 @@
+#Lab 04 Actividad 2
 import math
 
 # funcion original con errores
